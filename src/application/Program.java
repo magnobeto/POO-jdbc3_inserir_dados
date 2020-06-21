@@ -1,7 +1,6 @@
 
 package application;
 
-import com.mysql.jdbc.Statement;
 import java.sql.PreparedStatement;
 import java.sql.Connection;
 import java.sql.SQLException;
